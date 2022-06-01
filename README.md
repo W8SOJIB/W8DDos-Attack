@@ -13,7 +13,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### chmod +x w8ddos-attack.py
 
-### python w8ddos-attack.py
+### python2 w8ddos-attack.py
 
 ### ScreenShot 
 
